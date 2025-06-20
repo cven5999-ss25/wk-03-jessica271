@@ -51,6 +51,8 @@ library(dplyr)
 
 ```
 
+![](images/clipboard-9133593.png)
+
 ```{r}
 # library(sf)
 # library(rnaturalearth)
