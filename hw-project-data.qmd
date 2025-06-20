@@ -33,3 +33,8 @@ As an Urban Planner, it is crucial to understand various strategies that drive u
 This process is complex and mutli-dimensional requiring a deep understanding of various factors such as, existing transport infrastructure, land uses, spatial characteristics, funding mechanism and economic potential of commodities in the area.
 
 The **African Development Corridors Database (2022)** provides an insights into how these corridors are shaping Africa’s spatial and economic landscape. Additionally, the dataset provide an opportunity to learn more about data science lifecycle*.*
+
+```{r}
+library(usethis)
+use_git_config(user.name = "jessica271", user.email = "Jessica.Maina@colorado.edu")
+```
